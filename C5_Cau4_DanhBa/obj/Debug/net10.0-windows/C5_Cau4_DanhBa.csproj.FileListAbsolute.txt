@@ -1,0 +1,17 @@
+D:\Thiết kế wed\nam3\C5_Cau4_DanhBa\bin\Debug\net10.0-windows\C5_Cau4_DanhBa.exe
+D:\Thiết kế wed\nam3\C5_Cau4_DanhBa\bin\Debug\net10.0-windows\C5_Cau4_DanhBa.deps.json
+D:\Thiết kế wed\nam3\C5_Cau4_DanhBa\bin\Debug\net10.0-windows\C5_Cau4_DanhBa.runtimeconfig.json
+D:\Thiết kế wed\nam3\C5_Cau4_DanhBa\bin\Debug\net10.0-windows\C5_Cau4_DanhBa.dll
+D:\Thiết kế wed\nam3\C5_Cau4_DanhBa\bin\Debug\net10.0-windows\C5_Cau4_DanhBa.pdb
+D:\Thiết kế wed\nam3\C5_Cau4_DanhBa\obj\Debug\net10.0-windows\C5_Cau4_DanhBa.Form1.resources
+D:\Thiết kế wed\nam3\C5_Cau4_DanhBa\obj\Debug\net10.0-windows\C5_Cau4_DanhBa.csproj.GenerateResource.cache
+D:\Thiết kế wed\nam3\C5_Cau4_DanhBa\obj\Debug\net10.0-windows\C5_Cau4_DanhBa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thiết kế wed\nam3\C5_Cau4_DanhBa\obj\Debug\net10.0-windows\C5_Cau4_DanhBa.AssemblyInfoInputs.cache
+D:\Thiết kế wed\nam3\C5_Cau4_DanhBa\obj\Debug\net10.0-windows\C5_Cau4_DanhBa.AssemblyInfo.cs
+D:\Thiết kế wed\nam3\C5_Cau4_DanhBa\obj\Debug\net10.0-windows\C5_Cau4_DanhBa.csproj.CoreCompileInputs.cache
+D:\Thiết kế wed\nam3\C5_Cau4_DanhBa\obj\Debug\net10.0-windows\C5_Cau4_DanhBa.dll
+D:\Thiết kế wed\nam3\C5_Cau4_DanhBa\obj\Debug\net10.0-windows\refint\C5_Cau4_DanhBa.dll
+D:\Thiết kế wed\nam3\C5_Cau4_DanhBa\obj\Debug\net10.0-windows\C5_Cau4_DanhBa.pdb
+D:\Thiết kế wed\nam3\C5_Cau4_DanhBa\obj\Debug\net10.0-windows\C5_Cau4_DanhBa.genruntimeconfig.cache
+D:\Thiết kế wed\nam3\C5_Cau4_DanhBa\obj\Debug\net10.0-windows\ref\C5_Cau4_DanhBa.dll
+D:\Thiết kế wed\nam3\C5_Cau4_DanhBa\obj\Debug\net10.0-windows\C5_Cau4_.3D051616.Up2Date
