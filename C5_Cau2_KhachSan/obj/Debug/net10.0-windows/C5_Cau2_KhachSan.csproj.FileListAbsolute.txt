@@ -1,0 +1,17 @@
+D:\Thiết kế wed\nam3\C5_Cau2_KhachSan\bin\Debug\net10.0-windows\C5_Cau2_KhachSan.exe
+D:\Thiết kế wed\nam3\C5_Cau2_KhachSan\bin\Debug\net10.0-windows\C5_Cau2_KhachSan.deps.json
+D:\Thiết kế wed\nam3\C5_Cau2_KhachSan\bin\Debug\net10.0-windows\C5_Cau2_KhachSan.runtimeconfig.json
+D:\Thiết kế wed\nam3\C5_Cau2_KhachSan\bin\Debug\net10.0-windows\C5_Cau2_KhachSan.dll
+D:\Thiết kế wed\nam3\C5_Cau2_KhachSan\bin\Debug\net10.0-windows\C5_Cau2_KhachSan.pdb
+D:\Thiết kế wed\nam3\C5_Cau2_KhachSan\obj\Debug\net10.0-windows\C5_Cau2_KhachSan.Form1.resources
+D:\Thiết kế wed\nam3\C5_Cau2_KhachSan\obj\Debug\net10.0-windows\C5_Cau2_KhachSan.csproj.GenerateResource.cache
+D:\Thiết kế wed\nam3\C5_Cau2_KhachSan\obj\Debug\net10.0-windows\C5_Cau2_KhachSan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thiết kế wed\nam3\C5_Cau2_KhachSan\obj\Debug\net10.0-windows\C5_Cau2_KhachSan.AssemblyInfoInputs.cache
+D:\Thiết kế wed\nam3\C5_Cau2_KhachSan\obj\Debug\net10.0-windows\C5_Cau2_KhachSan.AssemblyInfo.cs
+D:\Thiết kế wed\nam3\C5_Cau2_KhachSan\obj\Debug\net10.0-windows\C5_Cau2_KhachSan.csproj.CoreCompileInputs.cache
+D:\Thiết kế wed\nam3\C5_Cau2_KhachSan\obj\Debug\net10.0-windows\C5_Cau2_KhachSan.dll
+D:\Thiết kế wed\nam3\C5_Cau2_KhachSan\obj\Debug\net10.0-windows\refint\C5_Cau2_KhachSan.dll
+D:\Thiết kế wed\nam3\C5_Cau2_KhachSan\obj\Debug\net10.0-windows\C5_Cau2_KhachSan.pdb
+D:\Thiết kế wed\nam3\C5_Cau2_KhachSan\obj\Debug\net10.0-windows\C5_Cau2_KhachSan.genruntimeconfig.cache
+D:\Thiết kế wed\nam3\C5_Cau2_KhachSan\obj\Debug\net10.0-windows\ref\C5_Cau2_KhachSan.dll
+D:\Thiết kế wed\nam3\C5_Cau2_KhachSan\obj\Debug\net10.0-windows\C5_Cau2_.0AAFADDE.Up2Date
